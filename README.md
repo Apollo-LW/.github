@@ -1,2 +1,1 @@
-# .github
-Project Public README
+“What if you could change ~education~ lives?” - Khan Academy.
